@@ -2,8 +2,6 @@
 
 ## Use case 1 
 
-## Functional requirements 
-
 
 ## Functional requirements
 
@@ -44,3 +42,14 @@
 | NFR-10 | The system could allow customers to reorder products from a previous order. | Could | FR-1,FR-3,FR-6,FR-4 |
 | NFR-11 | The system could offer a loyalty system that gives repeat customers discounts. | Could | FR-6,NFR-4 |
 | NFR-12 | The system could allow users to schedule collection instead of delivery. | Could | FR-8 |
+
+
+## Traceability table and requirements change
+
+|---|---|---|---|
+
+| 
+
+
+## Feedback
+
